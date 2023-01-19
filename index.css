@@ -54,9 +54,7 @@ body {
     justify-content: space-between;
     position: absolute;
     width: 46.62vw;
-    min-width: 462px;
     height: 4.213vw;
-    min-height: 38px;
     max-height: 50px;
     left: 0;
     right: 0;
@@ -147,7 +145,7 @@ button:focus {
 }
 
 .loading {
-    width: 20%;
+    width: 10%;
 }
 
 .movies {
