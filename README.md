@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ````
 
-
+Check the demo to see the Movie watchlist in action: https://majestic-faloodeh-8f9b01.netlify.app/
 
   In this app, you can:
   1) Search for movies
