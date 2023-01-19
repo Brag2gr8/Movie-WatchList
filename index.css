@@ -154,7 +154,7 @@ button:focus {
 
 .movies {
     margin: 3.25em auto;
-    
+    padding: 0 1em;
 }
 
 .movie {
