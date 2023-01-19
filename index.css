@@ -53,11 +53,9 @@ body {
     align-items: center;
     justify-content: space-between;
     position: absolute;
-    width: 46.62vw;
-    height: 4.213vw;
-    max-height: 50px;
-    left: 0;
-    right: 0;
+    width: 462px;
+    height: 38px;
+    left: 44px;
     top: 189px;
     background: #FFFFFF;
     border: 1px solid #D1D5DB;
@@ -69,21 +67,16 @@ body {
 .form div {
     display: flex;
     align-items: center;
-    width: 100%;
     padding: 0.5625em 0.185em;
     gap: 0.5em;
+    width: 21.375em;
     height: 2.375em;
     
-}
-
-.form img {
-    width: 5%;
 }
 
 .form input {
     border: none;
     width: 16.1875em;
-    font-size: 100%;
 }
 
 .form input:focus {
@@ -92,20 +85,19 @@ body {
 
 ::Placeholder {
     font-weight: 500;
-    font-size: 120%;
+    font-size: 0.875em;
 }
 
 button {
     background: #F9FAFB;
     border: 1px solid #D1D5DB;
     height: 100%;
-    width: 30%;
+    width: 7.5em;
     font-weight: 500;
-    font-size: 100%;
+    font-size: 0.875em;
     color: #374151;
     cursor: pointer;
 }
-
 button:focus {
     outline: 0;
 }
