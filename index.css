@@ -4,7 +4,10 @@
     margin: 0;
 }
 
-html, body {
+
+
+body {
+    margin: 0 auto;
     width: 100%;
     position: relative;
     padding: 0;
@@ -150,13 +153,13 @@ button:focus {
 }
 
 .movies {
-    margin-top: 3.25em;
+    margin: 3.25em auto;
     
 }
 
 .movie {
     margin: 1.5em auto ;
-    width: 28.875em;
+    width: 100%;
     display: flex;
     gap: 1.3125em;
     align-items: center;
@@ -179,7 +182,6 @@ button:focus {
 
 .movie-name {
     display: flex;
-    /* max-width: 80%; */
     align-items: center;
     gap: 0.5em;
 }
@@ -216,7 +218,7 @@ button:focus {
 
 hr {
     margin: 0 auto;
-    width: 462px;
+    width: 100%;
     border: 1.5px solid #E5E7EB; 
 }
 
