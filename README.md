@@ -1,4 +1,4 @@
-# co27a46bbaabb1e928183b4af
+# Movie Watchlist
 
 Quick start:
 
@@ -7,15 +7,23 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+  In this app, you can:
+  1) Search for movies
+  2) Save searched movie to watchlist
+  
+  This is how the project looks like: 
 
-Happy Coding!
+<img width="754" alt="Movie Watchlist screen shot" src="https://user-images.githubusercontent.com/58727101/213497644-3b2c8e89-a632-45aa-a276-49fb792b6888.png">
+
+  
+This project is done using 
+- Javascript Vanilla
+- the API: https://www.omdbapi.com/
+- Display: flex in CSS
+
+It really feels good to finish a project by myself :)
+
+Movie watchlist is a solo project from the Frontend Developer Career Path of Scrimba (https://scrimba.com/learn/frontend)
+
