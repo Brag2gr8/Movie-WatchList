@@ -55,7 +55,8 @@ body {
     position: absolute;
     width: 462px;
     height: 38px;
-    left: 44px;
+    left: 0;
+    right: 0;
     top: 189px;
     background: #FFFFFF;
     border: 1px solid #D1D5DB;
