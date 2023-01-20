@@ -8,6 +8,15 @@ if (localStorage.getItem('watchlist')) {
     watchlistMovieArray = JSON.parse(localStorage.getItem('watchlist'))
 }
 
+// SEARCH FOR MOVIE WHEN ENTER BUTTON IS CLICKED
+if (inputEl){
+    inputEl.addEventListener("keyup", (e) => {
+        if (e.keyCode === 13) {
+            document.getElementById("search").click()
+        }
+    })
+}
+
 // ADD LISTENER TO WHOLE DOCUMENT FOR SPECIFIC ID 
 document.addEventListener("click", (e) => {
     if (e.target.id === "add") {
