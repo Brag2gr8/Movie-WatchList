@@ -21,7 +21,7 @@ body {
     height: 208px;
     background: #000 url("/img/header.webp");
     color: white;
-    text-shadow: 3px 3px 2px #000;
+    text-shadow: 0 0 2px #242424;
     display: flex;
     align-items: center;
     justify-content: space-between;
